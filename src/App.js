@@ -7,7 +7,7 @@ import Sidenav from "./components/Sidenav";
 import Browse from "./components/Connect/Browse";
 import Profile from "./components/Connect/Profile";
 import Following from "./components/Connect/Following";
-
+// This is APp.js file 
 import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
 
 function App() {
